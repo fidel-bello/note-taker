@@ -14,6 +14,7 @@ app.use(express.static('public'));
 
 //routes
 require('./routes/api')
+require('./routes/hmtl')
 
 //app listener
 app.listen(PORT, () => console.log(`App is listening on Port : ${PORT}`));
