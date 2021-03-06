@@ -1,0 +1,2 @@
+web: cd develop 
+web: node server.js
