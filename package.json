@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> note-taker</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidel-bello/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidel-bello/note-taker/issues"
+  },
+  "homepage": "https://github.com/fidel-bello/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
