@@ -36,3 +36,13 @@
    * Please email me or make an issue at my github page.
    * My github is: [fidel-bello](https://github.com/fidel-bello)
    * Email me with questions: fidel_23@live.com
+
+  ## Screen-shots
+  ![api js - note-taker - Visual Studio Code 3_6_2021 6_07_09 PM](https://user-images.githubusercontent.com/73322116/110397040-1cd5ca00-803f-11eb-96fa-7704826b2bb7.png)
+
+![api js - note-taker - Visual Studio Code 3_6_2021 6_06_51 PM](https://user-images.githubusercontent.com/73322116/110397116-4131a680-803f-11eb-9117-29066476465f.png)
+
+
+![Note Taker - Google Chrome 3_6_2021 6_04_13 PM](https://user-images.githubusercontent.com/73322116/110397165-53134980-803f-11eb-9290-335648d44dc4.png)
+
+

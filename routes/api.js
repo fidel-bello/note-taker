@@ -23,7 +23,7 @@ module.exports = function (app) {
         
         fs.writeFile('./db/db.s\json', JSON.stringify(data), () => {
             
-            console.log('note successful')});
+            console.log('note posted!')});
            
             res.json(savedNote);
     });
@@ -37,7 +37,7 @@ module.exports = function (app) {
           if (selected === data[index].id) {
               data.splice(index, 1);
               fs.writeFile('./db/db.json', JSON.stringify(data),() => {
-                  console.log('deleted!')});
+                  console.log('note deleted!')});
           };
             
         };
